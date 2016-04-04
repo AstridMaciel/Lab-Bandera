@@ -1,0 +1,12 @@
+div{
+	display: inline-block;
+}
+.amarillo{
+	
+	background-color: yellow;
+	padding:10px;
+}
+#rojo{
+	background-color: red;
+	padding: 10px;
+}
